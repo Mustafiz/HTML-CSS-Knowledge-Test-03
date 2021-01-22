@@ -3,8 +3,8 @@
 }
 .circle {
     display: inline-block;
-    width: 40vw;
-    height: 40vw;
+    width: 32vw;
+    height: 32vw;
     border-radius: 50%;
     text-align: center;
     position: relative;
