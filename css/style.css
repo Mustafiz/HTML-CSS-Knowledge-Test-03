@@ -1,0 +1,35 @@
+.container {
+    margin-top: 30px;
+}
+.circle {
+    display: inline-block;
+    width: 40vw;
+    height: 40vw;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+}
+
+.green {
+    border: 4vw solid #338B24;
+    color: #338B24;
+    margin-right: 5px;
+}
+
+.red {
+    border: 4vw solid #A42304;
+    color: #A42304;
+    margin-left: 5px;
+}
+
+.circle-text {
+    margin: 0;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+}
+.circle-text h1 {
+    letter-spacing: 2px;
+    font-size: 4vw;
+}
